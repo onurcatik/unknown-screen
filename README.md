@@ -1,6 +1,11 @@
 <p align="center">
-  <img src="docs/logo.png" alt="UnknownScreen Logo" width="160" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/logo_white.png">
+    <source media="(prefers-color-scheme: light)" srcset="docs/logo_white.png">
+    <img alt="UnknownScreen Logo" src="docs/logo_white.png" width="160" />
+  </picture>
 </p>
+
 
 <h1 align="center">UnknownScreen</h1>
 
