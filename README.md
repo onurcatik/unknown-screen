@@ -10,26 +10,8 @@
 
 
 
-<p align="center">
-  <a href="https://github.com/FujiwaraChoki/UnknownScreen/stargazers"><img src="https://img.shields.io/github/stars/FujiwaraChoki/UnknownScreen.svg?style=for-the-badge&color=gold" alt="Stars"></a>
-  <a href="https://github.com/FujiwaraChoki/UnknownScreen/blob/main/LICENSE"><img src="https://img.shields.io/github/license/FujiwaraChoki/UnknownScreen.svg?style=for-the-badge&color=blue" alt="License"></a>
-  <a href="https://dsc.gg/fuji-community"><img src="https://img.shields.io/discord/1183060124803923968?style=for-the-badge&color=7289da&label=Discord" alt="Discord"></a>
-</p>
 
----
 
-<p align="center">
-  Sponsored by <a href="https://www.post-bridge.com/?ref=UnknownScreen"><strong>Post Bridge</strong></a>
-  <br>
-  <a href="https://www.post-bridge.com/?ref=UnknownScreen">
-    <img src="docs/repo/PostBridgeBanner.png" alt="Post Bridge integration banner" width="600" style="border-radius: 8px; margin-top: 10px;" />
-  </a>
-</p>
-
----
-
-> 𝕏 Follow the creator on X: [@DevBySami](https://x.com/DevBySami)  
-> 🎥 Watch the video demo on [YouTube](https://youtu.be/mkZsaDA2JnA?si=pNne3MnluRVkWQbE)
 
 UnknownScreen is an open-source, Ollama-first automated system designed to create, schedule, edit, and render engaging vertical video shorts (YouTube Shorts, TikTok, Instagram Reels) using local Large Language Models (LLMs) and advanced media processing pipelines.
 
