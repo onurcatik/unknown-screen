@@ -8,9 +8,7 @@
   <strong>An Ollama-First, Database-Backed Automated Shorts Generation Pipeline & Planner</strong>
 </p>
 
-<p align="center">
-  <a href="https://trendshift.io/repositories/7545" target="_blank"><img src="https://trendshift.io/api/badge/repositories/7545" alt="FujiwaraChoki%2FUnknownScreen | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/FujiwaraChoki/UnknownScreen/stargazers"><img src="https://img.shields.io/github/stars/FujiwaraChoki/UnknownScreen.svg?style=for-the-badge&color=gold" alt="Stars"></a>
