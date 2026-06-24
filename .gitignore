@@ -19,3 +19,25 @@ Backend/output*
 Songs/
 venv/
 runs/*
+
+# Phase 2 hygiene additions
+.env.local
+.env.development
+.env.production
+.env.production.local
+*.sqlite
+*.sqlite3
+*.wav
+*.mov
+*.webm
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+node_modules/
+dist/
+build/
+.vite/
+coverage/
+*.pem
+*.key
+*.p12

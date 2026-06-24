@@ -16,6 +16,29 @@ UnknownScreen is an open-source, Ollama-first automated system designed to creat
 
 ---
 
+## Frontend V2 Status
+
+This source package includes `frontend-v2`, a completed 12-phase React + TypeScript + Vite frontend foundation for the existing Flask backend. The backend was not changed for this frontend track.
+
+Frontend V2 supports the backend-backed workflow: project dashboard, create flow, studio timeline editing, timeline validation, render queueing, job/event observation, cancellation, and completed result preview.
+
+Run it separately with:
+
+```bash
+cd frontend-v2
+npm install
+npm run dev
+```
+
+Configure the backend URL in `frontend-v2/.env`:
+
+```txt
+VITE_API_BASE_URL=http://localhost:8080
+```
+
+The legacy `Frontend/` folder remains in the repository, but new controlled frontend development should continue under `frontend-v2`.
+
+
 ## 📖 Table of Contents
 
 - [⚡ Key Features](#-key-features)
